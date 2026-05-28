@@ -1,0 +1,174 @@
+[
+  {
+    "id": "1",
+    "name": "iPhone 17 Pro Max 512GB Chính hãng",
+    "category": "Điện thoại",
+    "price": 34490000,
+    "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+    "stores": [
+      {"shopName": "CellphoneS", "price": 34990000, "logo": "📱", "url": "https://cellphones.com.vn/iphone-17-pro.html"},
+      {"shopName": "Clickbuy", "price": 34490000, "logo": "🛒", "url": "https://clickbuy.com.vn/iphone-17-pro-max.html"},
+      {"shopName": "Hoàng Hà Mobile", "price": 34650000, "logo": "👑", "url": "https://hoanghamobile.com/dien-thoai/iphone-17-pro-max"}
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Samsung Galaxy S26 Ultra 5G 512GB",
+    "category": "Điện thoại",
+    "price": 31290000,
+    "imageUrl": "https://cdn.tgdd.vn/Products/Images/42/307174/samsung-galaxy-s24-ultra-grey-thumb-600x600.jpg",
+    "stores": [
+      {"shopName": "Thế Giới Di Động", "price": 31290000, "logo": "🟡", "url": "https://www.thegioididong.com/dtdd/samsung-galaxy-s26-ultra-12gb-256gb"},
+      {"shopName": "CellphoneS", "price": 31490000, "logo": "📱", "url": "https://cellphones.com.vn/dien-thoai-samsung-galaxy-s26-ultra.html"},
+      {"shopName": "Hoàng Hà Mobile", "price": 31100000, "logo": "👑", "url": "https://hoanghamobile.com/dien-thoai/samsung-galaxy-s26-ultra"}
+    ]
+  },
+  {
+    "id": "3",
+    "name": "MacBook Air 13 inch M3 2024",
+    "category": "Laptop",
+    "price": 27990000,
+    "imageUrl": "https://cdn.tgdd.vn/Products/Images/44/322633/macbook-air-13-inch-m3-2024-512gb-1.jpg",
+    "stores": [
+      {"shopName": "Hoàng Hà Mobile", "price": 27990000, "logo": "👑", "url": "https://hoanghamobile.com/laptop/macbook-air-m3-13-6-16gb-256gb-apple-viet-nam"},
+      {"shopName": "CellphoneS", "price": 28490000, "logo": "📱", "url": "https://cellphones.com.vn/macbook-air-15-m3-16-256gb-2024-sac-35w.html"},
+      {"shopName": "Thế Giới Di Động", "price": 28990000, "logo": "🟡", "url": "https://www.thegioididong.com/laptop/macbook-air-13-inch-m3-16gb-256gb-8gpu"}
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Laptop HP Omnibook X Flip 14",
+    "category": "Laptop",
+    "price": 18490000,
+    "imageUrl": "https://cdn.tgdd.vn/Products/Images/44/302212/hp-pavilion-x360-14-ek0134tu-i5-7c0p8pa-1.jpg",
+    "stores": [
+      {"shopName": "CellphoneS", "price": 18490000, "logo": "📱", "url": "https://cellphones.com.vn/laptop-hp-omnibook-x-flip-14-fk0092au-bz7p5pa-ryzen-ai-5.html"},
+      {"shopName": "Thế Giới Di Động", "price": 18990000, "logo": "🟡", "url": "https://www.thegioididong.com/laptop/hp-15-fc0023au-r5-7520u-d0bh1pa"}
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Đồng hồ thông minh Huawei Watch Fit 4",
+    "category": "Đồng hồ",
+    "price": 4590000,
+    "imageUrl": "https://cdn.tgdd.vn/Products/Images/7077/314227/amazfit-cheetah-square-1-1.jpg",
+    "stores": [
+      {"shopName": "Thế Giới Di Động", "price": 4590000, "logo": "🟡", "url": "https://www.thegioididong.com/may-doi-tra/dong-ho-thong-minh/huawei-watch-fit-4/detail?oldid=47091258&pid=334436&type=2"},
+      {"shopName": "CellphoneS", "price": 4690000, "logo": "📱", "url": "https://cellphones.com.vn/dong-ho-thong-minh-huawei-watch-fit-4.html"}
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Vòng đeo tay thông minh Huawei Band 11",
+    "category": "Đồng hồ",
+    "price": 5390000,
+    "imageUrl": "https://cdn.tgdd.vn/Products/Images/7077/235501/garmin-lily-day-silicone-trang-1-org-1.jpg",
+    "stores": [
+      {"shopName": "CellphoneS", "price": 5390000, "logo": "📱", "url": "https://cellphones.com.vn/vong-deo-tay-thong-minh-huawei-band-11.html"},
+      {"shopName": "Hoàng Hà Mobile", "price": 5290000, "logo": "👑", "url": "https://hoanghamobile.com/dong-ho-thong-minh/vong-deo-tay-thong-minh-huawei-band-11"}
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Tai nghe Bluetooth Apple AirPods 4 ",
+    "category": "Phụ kiện",
+    "price": 4390000,
+    "imageUrl": "https://cdn.tgdd.vn/Products/Images/54/290053/tai-nghe-bluetooth-airpods-3-lightning-charge-apple-mpny3-trang-6.jpg",
+    "stores": [
+      {"shopName": "Hoàng Hà Mobile", "price": 4390000, "logo": "👑", "url": "https://hoanghamobile.com/tai-nghe/airpods-4"},
+      {"shopName": "CellphoneS", "price": 4490000, "logo": "📱", "url": "https://cellphones.com.vn/apple-airpods-4.html"},
+      {"shopName": "Thế Giới Di Động", "price": 4650000, "logo": "🟡", "url": "https://www.thegioididong.com/tai-nghe/tai-nghe-bluetooth-airpods-3-lightning-charge-apple-mpny3-trang"}
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Tai nghe Sony True Wireless WF-C500",
+    "category": "Phụ kiện",
+    "price": 1490000,
+    "imageUrl": "https://cdn.tgdd.vn/Products/Images/54/298745/bluetooth-true-wireless-sony-wf-c500-cam-2.jpeg",
+    "stores": [
+      {"shopName": "CellphoneS", "price": 1490000, "logo": "📱", "url": "https://cellphones.com.vn/tai-nghe-khong-day-sony-wf-c500.html"},
+      {"shopName": "Thế Giới Di Động", "price": 1590000, "logo": "🟡", "url": "https://www.thegioididong.com/tai-nghe/tai-nghe-bluetooth-true-wireless-sony-wf-c500-gz-xanh"}
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Máy lạnh Panasonic Inverter 1 HP CU/CS-PU9ZKH-8M",
+    "category": "Điện lạnh",
+    "price": 9190000,
+    "imageUrl": "https://cdn.tgdd.vn/Products/Images/2002/303513/may-lanh-panasonic-inverter-1-hp-cu-cs-pu9zkh-8m-khung.jpg",
+    "stores": [
+      {"shopName": "Thế Giới Di Động", "price": 9190000, "logo": "🟡", "url": "https://www.thegioididong.com/may-lanh/panasonic-cu-cs-pu9zkh-8m"}
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Tủ lạnh Samsung Inverter 236 lít RT22M4032BY/SV",
+    "category": "Điện lạnh",
+    "price": 5490000,
+    "imageUrl": "https://cdn.tgdd.vn/Products/Images/2162/194119/samsung-rt22m4032by-sv-600x600.jpg",
+    "stores": [
+      {"shopName": "Thế Giới Di Động", "price": 5490000, "logo": "🟡", "url": "https://www.thegioididong.com/tu-lanh/samsung-rt22m4032by-sv"}
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Smart Tivi Samsung 4K 55 inch UA55A6500",
+    "category": "Tivi - Loa",
+    "price": 8990000,
+    "imageUrl": "https://cdn.tgdd.vn/Products/Images/1942/235165/samsung-55au7700-1-600x600.jpg",
+    "stores": [
+      {"shopName": "Thế Giới Di Động", "price": 8990000, "logo": "🟡", "url": "https://www.thegioididong.com/tivi/smart-tivi-samsung-4k-55-inch-ua55au7700"}
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Loa thanh soundbar Sony HT-S20R 400W",
+    "category": "Tivi - Loa",
+    "price": 3990000,
+    "imageUrl": "https://cdn.tgdd.vn/Products/Images/2140/221588/sony-ht-s20r-600x600.jpg",
+    "stores": [
+      {"shopName": "Thế Giới Di Động", "price": 3990000, "logo": "🟡", "url": "https://www.thegioididong.com/dan-loa-dvd/loa-thanh-soundbar-sony-ht-s20r"}
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Nồi chiên không dầu Philips HD9200/90 4.1 lít",
+    "category": "Gia dụng",
+    "price": 1590000,
+    "imageUrl": "https://cdn.tgdd.vn/Products/Images/10231/235722/philips-hd9200-90-600x600.jpg",
+    "stores": [
+      {"shopName": "Thế Giới Di Động", "price": 1590000, "logo": "🟡", "url": "https://www.thegioididong.com/noi-chien-khong-dau/philips-hd9200-90"}
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Nồi cơm điện cao tần Toshiba 1.8 lít RC-18IX1YSV",
+    "category": "Gia dụng",
+    "price": 2790000,
+    "imageUrl": "https://cdn.tgdd.vn/Products/Images/1922/222378/toshiba-rc-18ix1ysv-thumb-600x600.jpg",
+    "stores": [
+      {"shopName": "Thế Giới Di Động", "price": 2790000, "logo": "🟡", "url": "https://www.thegioididong.com/noi-com-dien/toshiba-rc-18ix1ysv"}
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Màn hình Asus VZ249HE-W 23.8 inch Full HD IPS",
+    "category": "Tin học",
+    "price": 2890000,
+    "imageUrl": "https://cdn.tgdd.vn/Products/Images/5697/239719/asus-vz249he-w-23-8-inch-fhd-75hz-1-600x600.jpg",
+    "stores": [
+      {"shopName": "Thế Giới Di Động", "price": 2890000, "logo": "🟡", "url": "https://www.thegioididong.com/man-hinh-may-tinh/asus-vz249he-w-238-inch-fhd"}
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Chuột máy tính không dây Logitech M220 Silent",
+    "category": "Tin học",
+    "price": 290000,
+    "imageUrl": "https://cdn.tgdd.vn/Products/Images/86/242417/chuot-khong-day-logitech-m220-3-org.jpg",
+    "stores": [
+      {"shopName": "Thế Giới Di Động", "price": 290000, "logo": "🟡", "url": "https://www.thegioididong.com/chuot-may-tinh/chuot-khong-day-logitech-m220"}
+    ]
+  }
+]
